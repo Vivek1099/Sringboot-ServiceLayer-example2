@@ -15,8 +15,8 @@ Ensure you have the following installed:
 ## Project Setup
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/basic-crud-springboot.git
-cd basic-crud-springboot
+git https://github.com/Vivek1099/Sringboot-ServiceLayer-example2.git
+cd Sringboot-ServiceLayer-example2
 ```
 2. Build the project:
 ```sh
